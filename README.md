@@ -15,10 +15,6 @@ This repository contains the design, **OrCAD PSpice** simulations, and physical 
 
 Pulse Width Modulation (PWM) is an essential technique used across power electronics, motor drivers, audio synthesis, and signal processing. The objective of this project is to explore, compare, and validate analog PWM generation methods by matching theoretical calculations, simulation outputs, and physical oscilloscope measurements.
 
-* **Course:** EEM0306 Electronics Laboratory II
-* **Group:** G20
-* **Authors:** Kuban Uygar KURT & Jess Edmond RAZAFIMANOVOLILY
-
 ---
 
 ## ⚡ Implementation Methods & Component List
